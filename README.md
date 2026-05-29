@@ -14,7 +14,7 @@ Run the following notebooks to reproduce the results presented in the paper:
 
 ## Installation
 
-Install the main libraries (e.g., `hidimstat`, `knockpy`, and `sindy`) from [this OneDrive URL](https://1drv.ms/f/c/39cecf604f8b30de/IgDNF7_9YCfoRZRyTRjs9MFBAbNmMwk1jwRmqa5mm4KKkbk?e=1QSdui).
+Install the main libraries (e.g., `hidimstat`, `knockpy`, and `sindy`) from [this OneDrive URL](https://1drv.ms/f/c/39cecf604f8b30de/IgDNF7_9YCfoRZRyTRjs9MFBAbNmMwk1jwRmqa5mm4KKkbk?e=1QSdui) (password: sindyko).
 
 For the conda environment, see the `econ` specification in the `Environment/` directory.
 
