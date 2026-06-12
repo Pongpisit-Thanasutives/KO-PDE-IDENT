@@ -68,7 +68,7 @@ dependencies:
   - graphemeu=0.7.2=pyhc364b38_0
   - graphite2=1.3.14=hc377ac9_1
   - gts=0.7.6=hde733a8_3
-  - gurobi=13.0.1=py310_0
+  - gurobi=13.0.2=py310_0
   - h11=0.16.0=py310hca03da5_1
   - harfbuzz=12.3.0=h9837a22_1
   - httpcore=1.0.9=py310hca03da5_0
@@ -394,5 +394,6 @@ dependencies:
       - wasabi==1.1.3
       - wcwidth==0.2.5
       - weasel==0.4.1
+      - wsindy==0.1.0
       - zipp==3.21.0
 prefix: /opt/anaconda3/envs/econ

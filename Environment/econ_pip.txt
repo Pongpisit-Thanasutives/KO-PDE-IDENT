@@ -73,7 +73,7 @@ gmpy2 @ file:///opt/miniconda3/conda-bld/gmpy2_1764747893574/work
 gpax==0.1.8
 graphemeu @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_graphemeu_1772902733/work
 graphviz @ file:///tmp/build/80754af9/python-graphviz_1612303637553/work
-gurobipy==13.0.1
+gurobipy==13.0.2
 h11 @ file:///opt/miniconda3/conda-bld/h11_1761931258948/work
 hf-xet==1.1.0
 HiDimStat @ file:///Users/pongpisitthanasutives/Desktop/research/hidimstat_mo/hidimstat
@@ -259,6 +259,7 @@ wcwidth @ file:///Users/ec2-user/croot/wcwidth_1767780821933/work
 weasel==0.4.1
 widgetsnbextension @ file:///home/conda/feedstock_root/build_artifacts/widgetsnbextension_1744291053367/work
 wrapt @ file:///opt/miniconda3/conda-bld/wrapt_1764243661252/work
+wsindy @ file:///Users/pongpisitthanasutives/Desktop/research/wsindy
 xarray @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_da7wjaws3t/croot/xarray_1749132719186/work
 xattr @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_bavojles8t/croot/xattr_1744011740823/work
 zipp==3.21.0
